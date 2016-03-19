@@ -1,0 +1,9 @@
+D:\университет\сети инет\TestApplication\TestApplication\bin\Release\TestApplication.exe.config
+D:\университет\сети инет\TestApplication\TestApplication\bin\Release\TestApplication.exe
+D:\университет\сети инет\TestApplication\TestApplication\bin\Release\TestApplication.pdb
+D:\университет\сети инет\TestApplication\TestApplication\obj\Release\TestApplication.MainForm.resources
+D:\университет\сети инет\TestApplication\TestApplication\obj\Release\TestApplication.NewGameForm.resources
+D:\университет\сети инет\TestApplication\TestApplication\obj\Release\TestApplication.Properties.Resources.resources
+D:\университет\сети инет\TestApplication\TestApplication\obj\Release\TestApplication.csproj.GenerateResource.Cache
+D:\университет\сети инет\TestApplication\TestApplication\obj\Release\TestApplication.exe
+D:\университет\сети инет\TestApplication\TestApplication\obj\Release\TestApplication.pdb
